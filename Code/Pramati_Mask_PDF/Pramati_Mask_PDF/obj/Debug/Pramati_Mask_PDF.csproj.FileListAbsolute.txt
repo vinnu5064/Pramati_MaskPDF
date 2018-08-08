@@ -1,0 +1,7 @@
+C:\Users\svc_uip_d_rpa1\source\repos\Pramati_Mask_PDF\Pramati_Mask_PDF\bin\Debug\Pramati_Mask_PDF.dll
+C:\Users\svc_uip_d_rpa1\source\repos\Pramati_Mask_PDF\Pramati_Mask_PDF\bin\Debug\Pramati_Mask_PDF.pdb
+C:\Users\svc_uip_d_rpa1\source\repos\Pramati_Mask_PDF\Pramati_Mask_PDF\bin\Debug\HtmlAgilityPack.dll
+C:\Users\svc_uip_d_rpa1\source\repos\Pramati_Mask_PDF\Pramati_Mask_PDF\obj\Debug\Pramati_Mask_PDF.csproj.CoreCompileInputs.cache
+C:\Users\svc_uip_d_rpa1\source\repos\Pramati_Mask_PDF\Pramati_Mask_PDF\obj\Debug\Pramati_Mask_PDF.csproj.CopyComplete
+C:\Users\svc_uip_d_rpa1\source\repos\Pramati_Mask_PDF\Pramati_Mask_PDF\obj\Debug\Pramati_Mask_PDF.dll
+C:\Users\svc_uip_d_rpa1\source\repos\Pramati_Mask_PDF\Pramati_Mask_PDF\obj\Debug\Pramati_Mask_PDF.pdb
