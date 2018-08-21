@@ -38,6 +38,6 @@ Follow the steps listed here https://activities.uipath.com/docs/creating-a-custo
 Copy the .nupkg file inside the Packages folder of your UiPath Studio install location (%USERPROFILE%\.nuget\Packages).The NuGet Package containing your custom activity is now ready to be loaded in UiPath Studio.(Refer-https://activities.uipath.com/docs/creating-a-custom-activity#section-loading-the-nuget-package-in-uipath-studio)
 
 
-License
+License:
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
