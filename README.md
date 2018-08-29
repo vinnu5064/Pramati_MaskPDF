@@ -15,8 +15,6 @@ Necessary Softwares:
 4. NuGetPackageExplorer v4.4.7 (https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/releases)
 </br>In order to create a NuGet package you need to install NuGetPackageExplorer. 
 
-5. Ghostscript 9.22
-
 External DLL:
 1. HtmlAgilityPack.dll
 </br>To use HTML related classes.
