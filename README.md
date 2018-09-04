@@ -9,7 +9,7 @@ Necessary Softwares:
 2. ImageMagick v7.0.7 (https://www.imagemagick.org/script/download.php)
 </br>It converts PDF files to jpg images and jpg images to PDF.
 
-3. Tesseract v4.00.00 (https://www.imagemagick.org/script/download.php)
+3. Tesseract v4.00.00 
 </br>It converts jpg images to ocr file.
 
 4. NuGetPackageExplorer v4.4.7 (https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/releases)
